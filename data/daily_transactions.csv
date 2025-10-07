@@ -1,0 +1,5 @@
+﻿transaction_id,customer_id,amount,currency,timestamp,status,user_email
+1,101,120,EUR,2025-10-01 10:15:00,Success,john@gmail.com
+2,102,550,USD,2025-10-01 10:45:00,Failed,sara@gmail.com
+3,103,300,EUR,2025-10-01 11:05:00,Success,mark@hotmail.com
+4,104,250,USD,2025-10-01 11:30:00,Success,lucy@polymail.com
